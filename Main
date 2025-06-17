@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Velion - Coming Soon</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #0f172a;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        flex-direction: column;
+      }
+      h1 {
+        font-size: 3em;
+      }
+      p {
+        color: #94a3b8;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Velion Project</h1>
+    <p>Coming Soon - Global Financial Revolution</p>
+  </body>
+</html>
